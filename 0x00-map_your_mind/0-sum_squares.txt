@@ -1,0 +1,11 @@
+START
+READ variable n
+INTIALIZE the variable sum to 0
+INTIALIZE the varible counter to 1
+LOOP while counter <= n
+	sum = sum + (counter * counter)
+	INCREMENT num by one
+END LOOP
+DISPLAY sum
+END
+
