@@ -1,0 +1,10 @@
+START
+INTIALIZE sum to 0
+INTIALIZE num to 0
+LOOP while num >= 0
+	INPUT a number to num
+	IF num < 0
+		BREAK
+	sum = sum + num
+DISPLAY sum
+END
