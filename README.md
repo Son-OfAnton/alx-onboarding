@@ -1,1 +1,3 @@
-# alx-onboarding
+#ADMAS GIRMA
+# COUNTRY: ETHIOPIA
+# ALX MAP YOUR MINDS
